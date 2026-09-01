@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <h1 style="display: inline-block">
-      Hey there,  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Akshay
+      Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Akshay
     </h1>
     <h3 align="center">AI/ML Engineer • Generative AI Enthusiast</h3>
   </ul>
